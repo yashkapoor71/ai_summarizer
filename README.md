@@ -6,5 +6,5 @@ Also, used Vite for React as the platform.
 
 Here's the link if you ever wanna have a look: https://summizes-ai.netlify.app
 
-![Uploading image.png…]()
+
 
